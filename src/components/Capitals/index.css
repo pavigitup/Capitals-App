@@ -2,7 +2,11 @@
   background-color: #f8fafc;
   padding: 5%;
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   text-align: center;
+}
+.input-box {
+  width: 150px;
 }
